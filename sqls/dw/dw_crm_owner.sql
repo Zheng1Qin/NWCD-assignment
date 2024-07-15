@@ -1,4 +1,4 @@
-CREATE TABLE ods_crm_owner (
+CREATE TABLE dw_crm_owner (
     owner_territory_id  INTEGER,
     owner_name          VARCHAR(255),
     owner_type          VARCHAR(100),

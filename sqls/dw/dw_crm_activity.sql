@@ -1,4 +1,4 @@
-CREATE TABLE ods_crm_activity (
+CREATE TABLE dw_crm_activity (
     activity_id       INTEGER,
     activity_name     VARCHAR(255),
     activity_type     VARCHAR(100),

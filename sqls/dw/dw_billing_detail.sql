@@ -1,4 +1,4 @@
-CREATE TABLE ods_billing_detail (
+CREATE TABLE dw_billing_detail (
     account_id         INTEGER,
     sub_account_id     INTEGER,
     owner_territory_id INTEGER,

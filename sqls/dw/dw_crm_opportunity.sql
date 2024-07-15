@@ -1,4 +1,4 @@
-CREATE TABLE ods_crm_opportunity (
+CREATE TABLE dw_crm_opportunity (
     opportunity_id    INTEGER,
     opportunity_name  VARCHAR(255),
     account_id        INTEGER,
